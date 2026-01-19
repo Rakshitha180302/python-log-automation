@@ -1,0 +1,6 @@
+INFO 2026-01-18 System boot successful
+WARNING 2026-01-18 High memory usage detected
+ERROR 2026-01-18 Failed to connect to database
+INFO 2026-01-18 Retrying connection
+ERROR 2026-01-18 Connection timeout
+ERROR 2026-01-19 Disk read failure
